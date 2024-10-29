@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/ci_fms/';
+$config['base_url'] = 'http://local.rocket.co.in:8081/School-Fees-Management-System/';
 
 $config['salt'] = '!@#$%5^&*()_click';
 
